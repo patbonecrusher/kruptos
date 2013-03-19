@@ -1,6 +1,10 @@
 # Kruptos
 
-TODO: Write a gem description
+This is simply a re-package of the existing (no longer supported) crypt gem.  
+Original gem is at http://crypt.rubyforge.org/index.html.
+I've tried to contact the owner and the email is no longer valid.  Therefore I've decided to simply create a new gem, fix the error for it to work with ruby 1.9 and call it a day.
+
+I didn't change any of the copyright.  All the credit goes to the original author rich kernahan.  I've renamed the project to kruptos to allow me to load it up on rubyforge.
 
 ## Installation
 
