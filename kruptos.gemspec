@@ -5,7 +5,7 @@ require 'kruptos/version'
 
 Gem::Specification.new do |gem|
   gem.name          = "kruptos"
-  gem.version       = Kruptos::VERSION
+  gem.version       = File.exist?('VERSION') ? File.read('VERSION') : Kruptos::VERSION
   gem.authors       = ["Pat Laplante"]
   gem.email         = ["pat@covenofchaos.com"]
   gem.description   = %q{Crypto ruby gem}
