@@ -1,6 +1,6 @@
 # Kruptos
 
-[![Build Status](https://travis-ci.org/patbonecrusher.kruptos.png)](https://travis-ci.org/patbonecrusher/kruptos) 
+[![Build Status](https://travis-ci.org/patbonecrusher/kruptos.png?branch=master)](https://travis-ci.org/patbonecrusher/kruptos) 
 
 This is simply a re-package of the existing (no longer supported) crypt gem.  
 Original gem is at http://crypt.rubyforge.org/index.html.
