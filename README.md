@@ -1,5 +1,7 @@
 # Kruptos
 
+[![Build Status](https://travis-ci.org/patbonecrusher.kruptos.png)](https://travis-ci.org/patbonecrusher/kruptos) 
+
 This is simply a re-package of the existing (no longer supported) crypt gem.  
 Original gem is at http://crypt.rubyforge.org/index.html.
 I've tried to contact the owner and the email is no longer valid.  Therefore I've decided to simply create a new gem, fix the error for it to work with ruby 1.9 and call it a day.
