@@ -1,6 +1,6 @@
 # Kruptos
 
-[![Version     ](https://img.shields.io/gem/v/gitit.svg?style=flat)](https://rubygems.org/gems/gitit)
+[![Version     ](https://img.shields.io/gem/v/kruptos.svg?style=flat)](https://rubygems.org/gems/kruptos)
 [![Build Status](http://img.shields.io/travis/patbonecrusher/kruptos/master.svg?style=flat)](https://travis-ci.org/patbonecrusher/kruptos)
 [![Code Climate](https://img.shields.io/codeclimate/github/patbonecrusher/kruptos.svg?style=flat)](https://codeclimate.com/github/patbonecrusher/kruptos)
 
