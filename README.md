@@ -1,6 +1,8 @@
 # Kruptos
 
-[![Build Status](https://travis-ci.org/patbonecrusher/kruptos.png?branch=master)](https://travis-ci.org/patbonecrusher/kruptos) <a href="https://codeclimate.com/github/patbonecrusher/kruptos"><img src="https://codeclimate.com/github/patbonecrusher/kruptos.png" /></a>
+[![Version     ](https://img.shields.io/gem/v/gitit.svg?style=flat)](https://rubygems.org/gems/gitit)
+[![Build Status](http://img.shields.io/travis/patbonecrusher/kruptos/master.svg?style=flat)](https://travis-ci.org/patbonecrusher/kruptos)
+[![Code Climate](https://img.shields.io/codeclimate/github/patbonecrusher/kruptos.svg?style=flat)](https://codeclimate.com/github/patbonecrusher/kruptos)
 
 This is simply a re-package of the existing (no longer supported) crypt gem.  
 Original gem is at http://crypt.rubyforge.org/index.html.
